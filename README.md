@@ -1,7 +1,7 @@
 # Desafio-Amigo-Secreto
 Primeiro desafio do curso iniciante em programação proporcionado pelo Programa One parceria incrível entre a Oracle + Alura 
 Tem como objetivo criar um código em Javascript com o intituito de desevolver uma aplicação que permita o usuário inserir nomes dos 
-amigos em seguida realizar um sorteio aleatório e determinar quem  é o "amigo secreto"
+amigos em seguida realizar um sorteio aleatório e determinar quem  é o "amigo secreto".
 
 Funcionalidades:
 
