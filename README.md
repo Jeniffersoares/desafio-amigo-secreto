@@ -12,3 +12,5 @@ Validação de entrada: Se o campo de texto estiver vazio, o programa exibirá u
 Visualização da lista: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 
 Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
+
+
